@@ -1,0 +1,1137 @@
+﻿/* ============================================
+ * hwicon - Merged Icon Font Library v1.0
+ * Sources: iconfont + corpfont + huawei-iconfont + myiconfont + icomoon
+ * Total icons: 272
+ * ============================================ */
+
+@font-face {
+  font-family: 'hwicon';
+  src: url(./fonts/hwicon.woff2) format('woff2'),
+       url(./fonts/hwicon.woff) format('woff'),
+       url(./fonts/hwicon.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.hwicon {
+  font-family: 'hwicon' !important;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  display: inline-block;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* --- iconfont --- */
+.hwicon.icon-Exportservices:before {
+  content: '\e702';
+}
+
+.hwicon.icon-Lock:before {
+  content: '\e67f';
+}
+
+.hwicon.icon-Rightarrow:before {
+  content: '\e761';
+}
+
+.hwicon.icon-about-icon1:before {
+  content: '\e658';
+}
+
+.hwicon.icon-about-icon2:before {
+  content: '\e657';
+}
+
+.hwicon.icon-about-icon3:before {
+  content: '\e65c';
+}
+
+.hwicon.icon-about-icon4:before {
+  content: '\e65b';
+}
+
+.hwicon.icon-accessories:before {
+  content: '\e63d';
+}
+
+.hwicon.icon-add-select:before {
+  content: '\e7b0';
+}
+
+.hwicon.icon-arrow-down:before {
+  content: '\e7b2';
+}
+
+.hwicon.icon-arrow-lift:before {
+  content: '\e744';
+}
+
+.hwicon.icon-arrow-right:before {
+  content: '\e743';
+}
+
+.hwicon.icon-arrow-up:before {
+  content: '\e745';
+}
+
+.hwicon.icon-audio:before {
+  content: '\e76e';
+}
+
+.hwicon.icon-bags:before {
+  content: '\e630';
+}
+
+.hwicon.icon-bussiness-man:before {
+  content: '\e6ef';
+}
+
+.hwicon.icon-cart-Empty:before {
+  content: '\e62e';
+}
+
+.hwicon.icon-clock:before {
+  content: '\e74b';
+}
+
+.hwicon.icon-close:before {
+  content: '\e747';
+}
+
+.hwicon.icon-coin:before {
+  content: '\e608';
+}
+
+.hwicon.icon-czbsc:before {
+  content: '\e636';
+}
+
+.hwicon.icon-denglu:before {
+  content: '\e62a';
+}
+
+.hwicon.icon-developer-new:before {
+  content: '\e64b';
+}
+
+.hwicon.icon-down:before {
+  content: '\e620';
+}
+
+.hwicon.icon-download:before {
+  content: '\e61e';
+}
+
+.hwicon.icon-download1:before {
+  content: '\e63a';
+}
+
+.hwicon.icon-e-user:before {
+  content: '\e61a';
+}
+
+.hwicon.icon-email:before {
+  content: '\e74f';
+}
+
+.hwicon.icon-erji:before {
+  content: '\e63c';
+}
+
+.hwicon.icon-falling:before {
+  content: '\e750';
+}
+
+.hwicon.icon-feedback:before {
+  content: '\e61c';
+}
+
+.hwicon.icon-fenxiang-1:before {
+  content: '\e63f';
+}
+
+.hwicon.icon-fenxiang-2:before {
+  content: '\e640';
+}
+
+.hwicon.icon-fenxiang-3:before {
+  content: '\e641';
+}
+
+.hwicon.icon-fenxiang-4:before {
+  content: '\e642';
+}
+
+.hwicon.icon-fenzhi:before {
+  content: '\e632';
+}
+
+.hwicon.icon-filter:before {
+  content: '\e623';
+}
+
+.hwicon.icon-fwrx:before {
+  content: '\e633';
+}
+
+.hwicon.icon-header-language:before {
+  content: '\e66e';
+}
+
+.hwicon.icon-header-language-new:before {
+  content: '\e670';
+}
+
+.hwicon.icon-header-linkgroup:before {
+  content: '\e66f';
+}
+
+.hwicon.icon-header-linkgroup-new:before {
+  content: '\e671';
+}
+
+.hwicon.icon-header-login:before {
+  content: '\e66a';
+}
+
+.hwicon.icon-header-login-new:before {
+  content: '\e672';
+}
+
+.hwicon.icon-header-myhuawei:before {
+  content: '\e66b';
+}
+
+.hwicon.icon-header-myhuawei-new:before {
+  content: '\e673';
+}
+
+.hwicon.icon-header-shop:before {
+  content: '\e649';
+}
+
+.hwicon.icon-header-yun:before {
+  content: '\e64a';
+}
+
+.hwicon.icon-home-left:before {
+  content: '\e650';
+}
+
+.hwicon.icon-home-right:before {
+  content: '\e64f';
+}
+
+.hwicon.icon-icon-choose-new:before {
+  content: '\e646';
+}
+
+.hwicon.icon-icon-header-new:before {
+  content: '\e643';
+}
+
+.hwicon.icon-icon-language-new:before {
+  content: '\e644';
+}
+
+.hwicon.icon-icon-login-new:before {
+  content: '\e645';
+}
+
+.hwicon.icon-icon-pad-new:before {
+  content: '\e648';
+}
+
+.hwicon.icon-icon-vr-new:before {
+  content: '\e647';
+}
+
+.hwicon.icon-icon-who1:before {
+  content: '\e659';
+}
+
+.hwicon.icon-icon-who2:before {
+  content: '\e65d';
+}
+
+.hwicon.icon-icon-who3:before {
+  content: '\e65a';
+}
+
+.hwicon.icon-ict-new1:before {
+  content: '\e64d';
+}
+
+.hwicon.icon-image-text:before {
+  content: '\e639';
+}
+
+.hwicon.icon-in-new:before {
+  content: '\e651';
+}
+
+.hwicon.icon-inner-left:before {
+  content: '\e64e';
+}
+
+.hwicon.icon-inner-right:before {
+  content: '\e64c';
+}
+
+.hwicon.icon-jituanwangzhan:before {
+  content: '\e629';
+}
+
+.hwicon.icon-jyfk:before {
+  content: '\e635';
+}
+
+.hwicon.icon-key:before {
+  content: '\e622';
+}
+
+.hwicon.icon-mail:before {
+  content: '\e628';
+}
+
+.hwicon.icon-map:before {
+  content: '\e758';
+}
+
+.hwicon.icon-mobile:before {
+  content: '\e60e';
+}
+
+.hwicon.icon-monkey:before {
+  content: '\e60c';
+}
+
+.hwicon.icon-network:before {
+  content: '\e60a';
+}
+
+.hwicon.icon-pdf:before {
+  content: '\e621';
+}
+
+.hwicon.icon-phone:before {
+  content: '\e619';
+}
+
+.hwicon.icon-pic:before {
+  content: '\e61f';
+}
+
+.hwicon.icon-play:before {
+  content: '\e62d';
+}
+
+.hwicon.icon-play1:before {
+  content: '\e75d';
+}
+
+.hwicon.icon-play2:before {
+  content: '\e62c';
+}
+
+.hwicon.icon-popup-icon:before {
+  content: '\e674';
+}
+
+.hwicon.icon-ranger:before {
+  content: '\e60d';
+}
+
+.hwicon.icon-rar:before {
+  content: '\e624';
+}
+
+.hwicon.icon-rise:before {
+  content: '\e60b';
+}
+
+.hwicon.icon-rss:before {
+  content: '\e627';
+}
+
+.hwicon.icon-sami-select:before {
+  content: '\e7b1';
+}
+
+.hwicon.icon-search:before {
+  content: '\e62f';
+}
+
+.hwicon.icon-service:before {
+  content: '\e606';
+}
+
+.hwicon.icon-share-ttnew:before {
+  content: '\e63e';
+}
+
+.hwicon.icon-sound-Mute:before {
+  content: '\e766';
+}
+
+.hwicon.icon-sound-filling:before {
+  content: '\e625';
+}
+
+.hwicon.icon-special-icon1:before {
+  content: '\e661';
+}
+
+.hwicon.icon-special-icon10:before {
+  content: '\e669';
+}
+
+.hwicon.icon-special-icon11:before {
+  content: '\e663';
+}
+
+.hwicon.icon-special-icon12:before {
+  content: '\e667';
+}
+
+.hwicon.icon-special-icon1new:before {
+  content: '\e66c';
+}
+
+.hwicon.icon-special-icon2:before {
+  content: '\e668';
+}
+
+.hwicon.icon-special-icon2new:before {
+  content: '\e66d';
+}
+
+.hwicon.icon-special-icon3:before {
+  content: '\e665';
+}
+
+.hwicon.icon-special-icon4:before {
+  content: '\e662';
+}
+
+.hwicon.icon-special-icon5:before {
+  content: '\e65e';
+}
+
+.hwicon.icon-special-icon6:before {
+  content: '\e660';
+}
+
+.hwicon.icon-special-icon7:before {
+  content: '\e664';
+}
+
+.hwicon.icon-special-icon8:before {
+  content: '\e65f';
+}
+
+.hwicon.icon-special-icon9:before {
+  content: '\e666';
+}
+
+.hwicon.icon-support:before {
+  content: '\e607';
+}
+
+.hwicon.icon-suspended:before {
+  content: '\e768';
+}
+
+.hwicon.icon-tianxie:before {
+  content: '\e637';
+}
+
+.hwicon.icon-user:before {
+  content: '\e60f';
+}
+
+.hwicon.icon-users:before {
+  content: '\e609';
+}
+
+.hwicon.icon-video-download-new:before {
+  content: '\e654';
+}
+
+.hwicon.icon-video-full-new:before {
+  content: '\e655';
+}
+
+.hwicon.icon-video-music-new:before {
+  content: '\e653';
+}
+
+.hwicon.icon-video-play-new:before {
+  content: '\e656';
+}
+
+.hwicon.icon-video-puse-new:before {
+  content: '\e652';
+}
+
+.hwicon.icon-vr:before {
+  content: '\e63b';
+}
+
+.hwicon.icon-website:before {
+  content: '\e626';
+}
+
+.hwicon.icon-weigui:before {
+  content: '\e638';
+}
+
+.hwicon.icon-who:before {
+  content: '\e614';
+}
+
+.hwicon.icon-who-:before {
+  content: '\e612';
+}
+
+.hwicon.icon-who-1:before {
+  content: '\e613';
+}
+
+.hwicon.icon-wzwt:before {
+  content: '\e631';
+}
+
+.hwicon.icon-xxls:before {
+  content: '\e634';
+}
+
+.hwicon.icon-yinhao:before {
+  content: '\e610';
+}
+
+.hwicon.icon-yun:before {
+  content: '\e61b';
+}
+
+.hwicon.icon-yuyan:before {
+  content: '\e62b';
+}
+
+.hwicon.icon-zhaiquan:before {
+  content: '\e61d';
+}
+
+/* --- corpfont --- */
+.hwicon.hwic_Wearables-navbar:before {
+  content: '\e92f';
+}
+
+.hwicon.hwic_accessories-navbar:before {
+  content: '\e934';
+}
+
+.hwicon.hwic_add:before {
+  content: '\e907';
+}
+
+.hwicon.hwic_browser:before {
+  content: '\e90a';
+}
+
+.hwicon.hwic_caret_left:before {
+  content: '\f0d9';
+}
+
+.hwicon.hwic_caret_right:before {
+  content: '\f0da';
+}
+
+.hwicon.hwic_cross:before {
+  content: '\e90c';
+}
+
+.hwicon.hwic_dehaze:before {
+  content: '\e90d';
+}
+
+.hwicon.hwic_down:before {
+  content: '\e904';
+}
+
+.hwicon.hwic_download:before {
+  content: '\e913';
+}
+
+.hwicon.hwic_download2:before {
+  content: '\e918';
+}
+
+.hwicon.hwic_email:before {
+  content: '\e90f';
+}
+
+.hwicon.hwic_emui:before {
+  content: '\e937';
+}
+
+.hwicon.hwic_facebook:before {
+  content: '\ea91';
+}
+
+.hwicon.hwic_files:before {
+  content: '\e910';
+}
+
+.hwicon.hwic_google-plus:before {
+  content: '\ea8b';
+}
+
+.hwicon.hwic_icon_VK1:before {
+  content: '\e919';
+}
+
+.hwicon.hwic_icon_building:before {
+  content: '\e91d';
+}
+
+.hwicon.hwic_icon_camera:before {
+  content: '\e929';
+}
+
+.hwicon.hwic_icon_habrahabr:before {
+  content: '\e924';
+}
+
+.hwicon.hwic_icon_instagram:before {
+  content: '\e925';
+}
+
+.hwicon.hwic_icon_link:before {
+  content: '\e92a';
+}
+
+.hwicon.hwic_icon_nav_pc:before {
+  content: '\e92d';
+}
+
+.hwicon.hwic_icon_nav_phones:before {
+  content: '\e92c';
+}
+
+.hwicon.hwic_icon_pic:before {
+  content: '\e926';
+}
+
+.hwicon.hwic_icon_print:before {
+  content: '\e91c';
+}
+
+.hwicon.hwic_icon_print2:before {
+  content: '\e922';
+}
+
+.hwicon.hwic_icon_print3:before {
+  content: '\e923';
+}
+
+.hwicon.hwic_icon_rss:before {
+  content: '\e92b';
+}
+
+.hwicon.hwic_icon_time:before {
+  content: '\e91f';
+}
+
+.hwicon.hwic_icon_user:before {
+  content: '\e920';
+}
+
+.hwicon.hwic_lamp:before {
+  content: '\e903';
+}
+
+.hwicon.hwic_left:before {
+  content: '\e915';
+}
+
+.hwicon.hwic_linkedin:before {
+  content: '\eaca';
+}
+
+.hwicon.hwic_lock:before {
+  content: '\e905';
+}
+
+.hwicon.hwic_mobile-nav:before {
+  content: '\e935';
+}
+
+.hwicon.hwic_mobile-navbar:before {
+  content: '\e933';
+}
+
+.hwicon.hwic_open-in-new-2:before {
+  content: '\e90e';
+}
+
+.hwicon.hwic_open-in-new-3:before {
+  content: '\e900';
+}
+
+.hwicon.hwic_open-in-new3:before {
+  content: '\e921';
+}
+
+.hwicon.hwic_pc-navbar:before {
+  content: '\e932';
+}
+
+.hwicon.hwic_pdf:before {
+  content: '\e914';
+}
+
+.hwicon.hwic_play2:before {
+  content: '\ea1c';
+}
+
+.hwicon.hwic_remove:before {
+  content: '\e15b';
+}
+
+.hwicon.hwic_right:before {
+  content: '\e916';
+}
+
+.hwicon.hwic_search:before {
+  content: '\e917';
+}
+
+.hwicon.hwic_sharing_email:before {
+  content: '\e906';
+}
+
+.hwicon.hwic_sharing_print:before {
+  content: '\e908';
+}
+
+.hwicon.hwic_sharing_share:before {
+  content: '\e909';
+}
+
+.hwicon.hwic_sharing_wechat:before {
+  content: '\e90b';
+}
+
+.hwicon.hwic_sina-weibo:before {
+  content: '\ea9a';
+}
+
+.hwicon.hwic_smart-screen:before {
+  content: '\e936';
+}
+
+.hwicon.hwic_smarthome-navbar:before {
+  content: '\e92e';
+}
+
+.hwicon.hwic_solutions-nav:before {
+  content: '\e931';
+}
+
+.hwicon.hwic_sort_asc:before {
+  content: '\f0de';
+}
+
+.hwicon.hwic_sort_desc:before {
+  content: '\f0dd';
+}
+
+.hwicon.hwic_tablets-navbar:before {
+  content: '\e930';
+}
+
+.hwicon.hwic_telphone:before {
+  content: '\e91a';
+}
+
+.hwicon.hwic_tick:before {
+  content: '\e91b';
+}
+
+.hwicon.hwic_to-right:before {
+  content: '\e912';
+}
+
+.hwicon.hwic_to_left:before {
+  content: '\e901';
+}
+
+.hwicon.hwic_to_right:before {
+  content: '\e902';
+}
+
+.hwicon.hwic_top:before {
+  content: '\e911';
+}
+
+.hwicon.hwic_toutiao:before {
+  content: '\e927';
+}
+
+.hwicon.hwic_youtube:before {
+  content: '\ea9d';
+}
+
+.hwicon.hwic_zhihu:before {
+  content: '\e928';
+}
+
+.hwicon.hwic_zoom-out:before {
+  content: '\e91e';
+}
+
+/* --- huawei-iconfont --- */
+.hwicon.iconAccessories:before {
+  content: '\f0ff';
+}
+
+.hwicon.iconAppGallery:before {
+  content: '\e611';
+}
+
+.hwicon.iconEMUI:before {
+  content: '\f100';
+}
+
+.hwicon.iconFM:before {
+  content: '\f0f1';
+}
+
+.hwicon.iconHMos:before {
+  content: '\f0f0';
+}
+
+.hwicon.iconHMos-2:before {
+  content: '\f0ef';
+}
+
+.hwicon.iconHUAWEIShopping:before {
+  content: '\f0f4';
+}
+
+.hwicon.iconHUAWEIShopping2:before {
+  content: '\f0f3';
+}
+
+.hwicon.iconHUAWEIShopping3:before {
+  content: '\f0f2';
+}
+
+.hwicon.iconKEY:before {
+  content: '\f0fa';
+}
+
+.hwicon.iconMP4:before {
+  content: '\f0fd';
+}
+
+.hwicon.iconMateBook:before {
+  content: '\f101';
+}
+
+.hwicon.iconMatePad:before {
+  content: '\f102';
+}
+
+.hwicon.iconPDF:before {
+  content: '\f0fb';
+}
+
+.hwicon.iconPhones:before {
+  content: '\e615';
+}
+
+.hwicon.iconRouters:before {
+  content: '\e617';
+}
+
+.hwicon.iconShoppingCart:before {
+  content: '\f0f5';
+}
+
+.hwicon.iconSmart:before {
+  content: '\e616';
+}
+
+.hwicon.iconTalkaboutICT-down:before {
+  content: '\e604';
+}
+
+.hwicon.iconTalkaboutICT-jiaoben:before {
+  content: '\e605';
+}
+
+.hwicon.iconTalkaboutICT-play:before {
+  content: '\f105';
+}
+
+.hwicon.iconTalkaboutICT-puse:before {
+  content: '\e601';
+}
+
+.hwicon.iconTalkaboutICT-shenyingclose:before {
+  content: '\e602';
+}
+
+.hwicon.iconTalkaboutICT-shenyingopen:before {
+  content: '\e603';
+}
+
+.hwicon.iconVR:before {
+  content: '\e618';
+}
+
+.hwicon.iconWearables:before {
+  content: '\f103';
+}
+
+.hwicon.iconZIP:before {
+  content: '\f0fc';
+}
+
+.hwicon.iconaccessories-new:before {
+  content: '\f0e4';
+}
+
+.hwicon.iconarbeitsmarkt-icon-huawei-2:before {
+  content: '\f0f8';
+}
+
+.hwicon.iconblog:before {
+  content: '\f0f9';
+}
+
+.hwicon.iconcrown-1:before {
+  content: '\e67e';
+}
+
+.hwicon.icondigital-power-1:before {
+  content: '\f0e0';
+}
+
+.hwicon.iconearphones:before {
+  content: '\f0fe';
+}
+
+.hwicon.iconhwiconinfo:before {
+  content: '\f0e3';
+}
+
+.hwicon.iconic-star-lined:before {
+  content: '\f0ee';
+}
+
+.hwicon.iconmc-audio_mc-audio:before {
+  content: '\f0e2';
+}
+
+.hwicon.iconmittelstand-4-0-icon-huawai-2:before {
+  content: '\f0f7';
+}
+
+.hwicon.iconneue-geschaeftsmodelle-icon-huawei-2:before {
+  content: '\f0f6';
+}
+
+.hwicon.iconosdollar:before {
+  content: '\f0e7';
+}
+
+.hwicon.iconoseye:before {
+  content: '\f0e6';
+}
+
+.hwicon.iconoslock:before {
+  content: '\f0e5';
+}
+
+.hwicon.iconosrocket:before {
+  content: '\f0e8';
+}
+
+.hwicon.iconosshare:before {
+  content: '\f0e9';
+}
+
+.hwicon.iconosstar:before {
+  content: '\f0ec';
+}
+
+.hwicon.iconossupport:before {
+  content: '\f0eb';
+}
+
+.hwicon.iconostalent:before {
+  content: '\f0ea';
+}
+
+.hwicon.iconostrust:before {
+  content: '\f0ed';
+}
+
+.hwicon.iconserver-1:before {
+  content: '\e675';
+}
+
+.hwicon.iconsignal-1:before {
+  content: '\f0df';
+}
+
+.hwicon.iconsubscribe:before {
+  content: '\f0e1';
+}
+
+.hwicon.iconvideo-download:before {
+  content: '\f104';
+}
+
+.hwicon.iconwholehome:before {
+  content: '\e67a';
+}
+
+/* --- myiconfont --- */
+.hwicon.icon-address:before {
+  content: '\f110';
+}
+
+.hwicon.icon-fangda:before {
+  content: '\f10f';
+}
+
+.hwicon.icon-guanbi:before {
+  content: '\f111';
+}
+
+.hwicon.icon-icon:before {
+  content: '\f113';
+}
+
+.hwicon.icon-icon1:before {
+  content: '\f114';
+}
+
+.hwicon.icon-icon10:before {
+  content: '\f11d';
+}
+
+.hwicon.icon-icon11:before {
+  content: '\f11e';
+}
+
+.hwicon.icon-icon12:before {
+  content: '\f11f';
+}
+
+.hwicon.icon-icon13:before {
+  content: '\f120';
+}
+
+.hwicon.icon-icon14:before {
+  content: '\f106';
+}
+
+.hwicon.icon-icon15:before {
+  content: '\f107';
+}
+
+.hwicon.icon-icon16:before {
+  content: '\f108';
+}
+
+.hwicon.icon-icon17:before {
+  content: '\f109';
+}
+
+.hwicon.icon-icon2:before {
+  content: '\f115';
+}
+
+.hwicon.icon-icon3:before {
+  content: '\f116';
+}
+
+.hwicon.icon-icon4:before {
+  content: '\f117';
+}
+
+.hwicon.icon-icon5:before {
+  content: '\f118';
+}
+
+.hwicon.icon-icon6:before {
+  content: '\f119';
+}
+
+.hwicon.icon-icon7:before {
+  content: '\f11a';
+}
+
+.hwicon.icon-icon8:before {
+  content: '\f11b';
+}
+
+.hwicon.icon-icon9:before {
+  content: '\f11c';
+}
+
+.hwicon.icon-plus-new:before {
+  content: '\f10a';
+}
+
+.hwicon.icon-plus-new2:before {
+  content: '\f10b';
+}
+
+.hwicon.icon-right:before {
+  content: '\e600';
+}
+
+.hwicon.icon-right1:before {
+  content: '\f10e';
+}
+
+.hwicon.icon-riqi:before {
+  content: '\f112';
+}
+
+.hwicon.icon-xiazai:before {
+  content: '\f10c';
+}
+
+.hwicon.icon-youjian:before {
+  content: '\f10d';
+}
+
+/* --- SVG icons (not font glyphs) --- */
+
+a:hover .hwic_twitter:before {
+  filter: invert(21%) sepia(0%) saturate(1%) hue-rotate(134deg) brightness(89%) contrast(94%);
+}
+
+.hwicon.hwic_twitter:before {
+  content: '';
+  width: 26px;
+  display: inline-block;
+  height: 26px;
+  filter: invert(36%) sepia(99%) saturate(19%) hue-rotate(339deg) brightness(87%) contrast(83%);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-image: url('data:image/svg+xml;utf8,<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35;" xml:space="preserve"><path d="M20.8,14.8L33.5,0h-3L19.4,12.9L10.6,0H0.4l13.4,19.5L0.4,35h3l11.7-13.6L24.4,35h10.2L20.8,14.8L20.8,14.8z M16.6,19.6 l-1.4-1.9L4.5,2.3h4.6l8.7,12.4l1.4,1.9l11.3,16.2h-4.6L16.6,19.6L16.6,19.6z"/></svg>');
+}
